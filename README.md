@@ -1,9 +1,11 @@
 
-## 💫 About Me: 
-Hi, I am Rutwik More, a 4th-year Undergraduate student at IIT Gandhinagar.
+## 👋 Hi, I am Rutwik! 
+- 🚀 A Final year BTech Undergraduate at IIT Gandhinagar, India.
+- 👨🏻‍🎓 Majoring in Computer Science and Engineering.
+- 👀 Love building and deploying Tech solutions to solve real-world problems.
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rutwik1440) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rutwik-more-1946ab22a) 
 
 # 💻 Tech Stack:
@@ -13,7 +15,7 @@ Hi, I am Rutwik More, a 4th-year Undergraduate student at IIT Gandhinagar.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rutwik1440&theme=radical&hide_border=false)<br/>
 
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
